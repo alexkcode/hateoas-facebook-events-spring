@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hateoas-facebook-events-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/hateoas-facebook-events-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hateoas-facebook-events-spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hateoas-facebook-events-spring_main.iml" group="hateoas-facebook-events-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hateoas-facebook-events-spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hateoas-facebook-events-spring_test.iml" group="hateoas-facebook-events-spring" />
+    </modules>
+  </component>
+</project>
